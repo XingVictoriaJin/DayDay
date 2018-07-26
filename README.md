@@ -1,0 +1,2 @@
+# DayDay
+Everyday blog
